@@ -6,8 +6,8 @@ For details on which packages and versions are installed, see the [`Dockerfile`]
 
 ## Getting Started
 
-Before beginning, remember that this container is provided as a convenience and that
-_all final testing should still be done in `os1`!_
+> Before beginning, remember that this container is provided as a convenience and that
+> _all final testing should still be done in `os1`!_
 
 Install the following prerequisites:
 
