@@ -2,7 +2,7 @@
 
 A VS Code development container mirroring the `os1` server environment used in CS 344.
 
-For details on which packages and versions are installed, see the [`Dockerfile`](Dockerfile).
+For details on which packages and versions are installed, see the [`Dockerfile`](.devcontainer/Dockerfile).
 
 ## Getting Started
 
